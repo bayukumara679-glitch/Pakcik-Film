@@ -33,7 +33,7 @@
         },
         {
           "name": "FlickyStream",
-          "url": "https://flickystream.mov/",
+          "url": "https://meowtv.ru/",
           "logo": "./logo/movies_shows/flickystream.png",
           "enabled": true,
           "status": "trusted"
