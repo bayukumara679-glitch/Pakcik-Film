@@ -45,7 +45,7 @@ export function Navbar() {
     >
       <div className="mx-auto flex max-w-[1600px] items-center gap-2 px-3 py-2.5 sm:gap-3 sm:px-4 md:px-6 md:py-3">
         <Link href="/" className="flex shrink-0 items-center gap-2 font-bold">
-          <Image src="/logo.png" alt="PAKCIK FILM" width={28} height={28} className="h-7 w-7 rounded" />
+          <Image src="/Logo.png" alt="PAKCIK FILM" width={28} height={28} className="h-7 w-7 rounded" />
           <span className="hidden text-base sm:inline">PAKCIK FILM</span>
         </Link>
 
@@ -115,16 +115,13 @@ export function Navbar() {
             </svg>
           </a>
           <a
-            href="https://www.reddit.com/r/tbcpl/"
-            target="_blank"
-            rel="noreferrer noopener"
-            aria-label="Reddit"
-            className="tbcpl-pill inline-flex h-9 w-9 items-center justify-center md:hidden"
-          >
-            <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden>
-              <path d="M22 12.07a2.07 2.07 0 0 0-3.5-1.5 10.27 10.27 0 0 0-5.59-1.76l.95-4.5 3.13.66a1.5 1.5 0 1 0 .15-.96l-3.5-.74a.5.5 0 0 0-.59.38l-1.06 5.02A10.27 10.27 0 0 0 5.5 10.57a2.07 2.07 0 1 0-2.36 3.34A4.13 4.13 0 0 0 3 14.86C3 18.25 7.03 21 12 21s9-2.75 9-6.14a4.13 4.13 0 0 0-.14-1.05A2.07 2.07 0 0 0 22 12.07ZM7.5 14a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0Zm8.36 4.18A6.18 6.18 0 0 1 12 19.36a6.18 6.18 0 0 1-3.86-1.18.5.5 0 0 1 .6-.8A5.18 5.18 0 0 0 12 18.36a5.18 5.18 0 0 0 3.26-.98.5.5 0 1 1 .6.8Zm-.36-2.68a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z" />
-            </svg>
-          </a>
+           href="https://t.me/+0QCMkAEvTJU2YTU1"
+           target="_blank"
+           rel="noreferrer"
+           className="..."
+           >
+          <img src="/socials/TeLegram.png" alt="Telegram" className="h-auto w-full max-w-[160px] object-contain mb-2" />
+        </a>
 
           <ThemeSwitcher />
 
