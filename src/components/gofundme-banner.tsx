@@ -26,7 +26,7 @@ export function GoFundMeBanner() {
         rel="noreferrer"
         className="rounded bg-white px-2 py-0.5 text-[11px] font-semibold text-[#ee5a24] sm:text-xs"
       >
-        Support aku 💜
+        Support aku 👈
       </a>
       <button
         type="button"

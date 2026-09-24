@@ -120,7 +120,7 @@ export function Navbar() {
            rel="noreferrer"
            className="..."
            >
-          <img src="/socials/TeLegram.png" alt="Telegram" className="h-auto w-full max-w-[160px] object-contain mb-2" />
+          <img src="/socials/TeLegram.png" alt="Telegram" className="h-auto w-full max-w-[80px] object-contain mb-2" />
         </a>
 
           <ThemeSwitcher />

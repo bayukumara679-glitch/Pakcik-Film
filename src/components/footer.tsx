@@ -10,7 +10,7 @@ export function Footer() {
         <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2">
          <a href="mailto:kumarrp7800@gmail.com?subject=Request Film" className="hover:text-[var(--fg)]">Request</a>
          <a href="mailto:kumarrp7800@gmail.com?subject=Laporan DMCA" className="hover:text-[var(--fg)]">DMCA</a>
-          <a href="https://github.com/N3rdmade/TBCPL/" target="_blank" rel="noreferrer" className="hover:text-[var(--fg)]">GitHub</a>
+          <a href="https://github.com/bayukumara679-glitch/Pakcik-Film.git/" target="_blank" rel="noreferrer" className="hover:text-[var(--fg)]">GitHub</a>
         </div>
         <div className="flex flex-col items-center gap-2 text-center md:items-end md:text-right">
           <div>Curated with 👉 by Pakcik FILM</div>

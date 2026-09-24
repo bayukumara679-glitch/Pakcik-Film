@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "sports streams",
     "fmhy alternative",
     "best streaming list",
-    "tbcpl",
+    "Jangan Lupa dukung Pakcik ya, biar pakcik bisa terus updete film-film terbaru dan terbaik untuk kalian semua.Terima kasih.",
   ],
   authors: [{ name:  "Pakcik FILM", url: "https://pakcikfilm.com" }],
   creator:  "Pakcik FILM",
