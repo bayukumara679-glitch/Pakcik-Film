@@ -6,7 +6,7 @@
       "sites": [
         {
           "name": "1Shows",
-          "url": "https://www.1shows.org/",
+          "url": "https://www.1shows.bz/",
           "logo": "./logo/movies_shows/1shows.png",
           "enabled": true,
           "status": "trusted"
@@ -33,7 +33,7 @@
         },
         {
           "name": "FlickyStream",
-          "url": "https://flickystream.mov/",
+          "url": "https://meowtv.ru/",
           "logo": "./logo/movies_shows/flickystream.png",
           "enabled": true,
           "status": "trusted"
@@ -342,7 +342,7 @@
         },
         {
           "name": "iStreamEast",
-          "url": "https://thestreameast.top/",
+          "url": "https://streameast.cool/",
           "logo": "./logo/livetv/istreameast.png",
           "enabled": true
         },

@@ -6,7 +6,7 @@
       "sites": [
         {
           "name": "EgyBest",
-          "url": "https://egybesst.sbs/",
+          "url": "https://egybest.la/",
           "logo": "./logo/movies_shows/egybest.png",
           "enabled": true
         },
@@ -75,7 +75,7 @@
         },
         {
           "name": "movizlands",
-          "url": "https://w3.movizlands.com/",
+          "url": "https://w4.movizlands.com/",
           "logo": "./logo/movies_shows/movizlands.png",
           "status": "new",
           "enabled": true
