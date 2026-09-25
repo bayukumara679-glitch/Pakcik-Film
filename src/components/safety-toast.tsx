@@ -39,22 +39,32 @@ export function SafetyToast() {
         </p>
         
         <div className="flex flex-wrap gap-2">
-          {/* GANTI LINK TIKTOK DI BAWAH INI */}
+          {/* LINK TIKTOK */}
           <a
-            href="https://www.tiktok.com/@pakcikkumar868?is_from_webapp=1&sender_device=pc" 
+            href="https://www.tiktok.com/@pakcikkumar868?is_from_webapp=1&sender_device=pc"
             target="_blank"
             rel="noreferrer"
-            className="rounded bg-black border border-gray-700 px-3 py-1.5 font-medium hover:bg-gray-800 transition-colors"
+            className="rounded bg-black border border-gray-700 px-3 py-1.5 font-medium hover:bg-gray-800 transition-colors flex items-center gap-1.5"
           >
             🎵 TikTok
           </a>
-          
-          {/* GANTI LINK SOCIABUZZ DI BAWAH INI */}
+
+          {/* LINK YOUTUBE BARU */}
           <a
-            href="https://sociabuzz.com/pakcikkumar" 
+            href="https://youtube.com/@pakcik_kumar868?si=jwcEiVgWowjaBy86" 
             target="_blank"
             rel="noreferrer"
-            className="rounded bg-yellow-600 px-3 py-1.5 font-medium hover:bg-yellow-500 transition-colors"
+            className="rounded bg-red-600 px-3 py-1.5 font-medium hover:bg-red-500 transition-colors flex items-center gap-1.5"
+          >
+            ▶️ YouTube
+          </a>
+          
+          {/* LINK SOCIABUZZ */}
+          <a
+            href="https://sociabuzz.com/pakcikkumar"
+            target="_blank"
+            rel="noreferrer"
+            className="rounded bg-yellow-600 px-3 py-1.5 font-medium hover:bg-yellow-500 transition-colors flex items-center gap-1.5 text-white"
           >
             ☕ Sociabuzz
           </a>
